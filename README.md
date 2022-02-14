@@ -10,29 +10,29 @@ In August 2017, there were about 2.3 M bike rides in New York City.
 
 **Checkout times for Users** The majority of trips were under 20 minutes. 
 
-![alt text}()
+![alt text](https://raw.githubusercontent.com/lgonzales1/bikesharing/main/CheckoutTimebyUsers.png)
 
 **Checkout times (by Gender)** In this study, men tend to utlizing bikesharing in NYC more than women.
 
-![alt text}(https://raw.githubusercontent.com/lgonzales1/bikesharing/main/CheckoutTimesbyGender.png)
+![alt text](https://raw.githubusercontent.com/lgonzales1/bikesharing/main/CheckoutTimesbyGender.png)
 
 **Trips (Weekday per Hour)** Bike rentals align with a Monday-Friday daily commute. 
 
-![alt text}(https://raw.githubusercontent.com/lgonzales1/bikesharing/main/TripsbyWeekdayperHour.png)
+![alt text](https://raw.githubusercontent.com/lgonzales1/bikesharing/main/TripsbyWeekdayperHour.png)
 
 **Trips by Gender (Weekday per Hour)** Usage times do not seem to vary by gender (although usuage amount by gender is reinforced in this visual).
 
-![alt text}(https://raw.githubusercontent.com/lgonzales1/bikesharing/main/TripsbyGender.png)
+![alt text](https://raw.githubusercontent.com/lgonzales1/bikesharing/main/TripsbyGender.png)
 
 **User Trips (by Gender by Weekday)** Users with subscriptions makeup a majority of the bikesharing trips.
 
-![alt text}(https://raw.githubusercontent.com/lgonzales1/bikesharing/main/TripsbyGenderbyWeekday.png)
+![alt text](https://raw.githubusercontent.com/lgonzales1/bikesharing/main/TripsbyGenderbyWeekday.png)
 
 **Rental Starting & End Points** Bike rentals appear to be clustered in certain areas of the city. 
 
-![alt text}(https://raw.githubusercontent.com/lgonzales1/bikesharing/main/TopStartLocation.png)
+![alt text](https://raw.githubusercontent.com/lgonzales1/bikesharing/main/TopStartLocation.png)
 
-![alt text}(https://raw.githubusercontent.com/lgonzales1/bikesharing/main/TopEndLocation.png)
+![alt text](https://raw.githubusercontent.com/lgonzales1/bikesharing/main/TopEndLocation.png)
 
 ## Summary
 
